@@ -36,21 +36,21 @@
 
 - [Poc-Kwalify](link-to-poc-kwalify) - An ontology-based model for validation and verification of clinical reports using limited validation rules and conditions. Technologies used: Angular, Bootstrap, Semantic-UI, Semantic Intelligence, Django.
 
-- [SANDHI-GVA](link-to-sandhi-gva) - An automated web-based application using GENOME-DATA-ANALYSIS to diagnose rare genetic disorders in humans. Technologies used: Angular, Semantic-UI, Semantic Intelligence, Django.
+- [SANDHI-GVA](https://www.semgenome.com/) - An automated web-based application using GENOME-DATA-ANALYSIS to diagnose rare genetic disorders in humans. Technologies used: Angular, Semantic-UI, Semantic Intelligence, Django.
 
 - [TankUp FMX](link-to-tankup-fmx) - TankUp Fuel Management System is a web-based application for monitoring and managing client's Bowsers, Storage Tanks Assets like Diesel Generator, Heavy Vehicles, Industrial Machines, etc. Technologies used: Angular, HTML, CSS, Bootstrap, NodeJs.
 
 - [Raspberry Pi Controller](link-to-raspberry-pi-controller) - A logical code for all the components of the vehicle like Tank Lock (Centralized Locking System), Dispensing Unit (Code integrated with Tokheim/Gilbarco), Automatic Tank Gauge (Real-time quantity monitoring), Printer GPS. Technologies used: NodeJS, SocketIO, SerialPort.
 
-- [TankUp App](link-to-tankup-app) - Tankup provides doorstep diesel delivery through this app. It has features like city-wise price updation, order placing, order history, analytics, language switch. Technologies used: Ionic, Angular, Firebase, RazorPay, GoogleMaps.
+- [TankUp App](https://play.google.com/store/apps/details?id=customer.tankup.co.in) - Tankup provides doorstep diesel delivery through this app. It has features like city-wise price updation, order placing, order history, analytics, language switch. Technologies used: Ionic, Angular, Firebase, RazorPay, GoogleMaps.
 
-- [TankUp Dashboard](link-to-tankup-dashboard) - This application is the superset of the TankUp Partner App generally used to monitor the fuel and daily transactions. Customized solutions according to the requirement of the business owner. Technologies used: Angular, HTML, CSS, Bootstrap, NodeJs, GoogleMaps.
+- [TankUp Dashboard](http://dashboard.tankup.co.in/) - This application is the superset of the TankUp Partner App generally used to monitor the fuel and daily transactions. Customized solutions according to the requirement of the business owner. Technologies used: Angular, HTML, CSS, Bootstrap, NodeJs, GoogleMaps.
 
-- [DTDC Opedia Dashboard](link-to-dtdc-opedia-dashboard) - Describe your DTDC Opedia Dashboard project here. Technologies used: [List technologies used].
+- [DTDC Opedia Dashboard](dtdcopedia.cusmat.com) - Describe your DTDC Opedia Dashboard project here. Technologies used: [List technologies used].
 
 - [DTDC Opedia Mobile App](link-to-dtdc-opedia-mobile-app) - Describe your DTDC Opedia Mobile App project here. Technologies used: [List technologies used].
 
-- [Cusmat Dashboard](link-to-cusmat-dashboard) - Describe your Cusmat Dashboard project here. Technologies used: [List technologies used].
+- [Cusmat Dashboard](analytics.cusmat.com) - Describe your Cusmat Dashboard project here. Technologies used: [List technologies used].
 
 <h2 align="center">🌐 Connect with Me</h2>
 
