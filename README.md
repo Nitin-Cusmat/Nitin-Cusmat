@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Your Name's Banner">
+  <img src="[https://your-image-url.com/your-image.png](https://camo.githubusercontent.com/f4c47ff6c4d75b44b039f6cfba4e8c4aa73b2e75ddc1b18a11916d59a7d35c61/68747470733a2f2f696d6775722e636f6d2f3366726a776e572e706e67)" alt="Nitin Banner">
 </p>
 
 <h1 align="center">Hello, I'm Your Name! 👋</h1>
