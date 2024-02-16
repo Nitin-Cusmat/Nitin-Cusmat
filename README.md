@@ -46,11 +46,11 @@
 
 - [TankUp Dashboard](http://dashboard.tankup.co.in/) - This application is the superset of the TankUp Partner App generally used to monitor the fuel and daily transactions. Customized solutions according to the requirement of the business owner. Technologies used: Angular, HTML, CSS, Bootstrap, NodeJs, GoogleMaps.
 
-- [DTDC Opedia Dashboard](dtdcopedia.cusmat.com) - Describe your DTDC Opedia Dashboard project here. Technologies used: [List technologies used].
+- [DTDC Opedia Dashboard](dtdcopedia.cusmat.com)
 
-- [DTDC Opedia Mobile App](link-to-dtdc-opedia-mobile-app) - Describe your DTDC Opedia Mobile App project here. Technologies used: [List technologies used].
+- [DTDC Opedia Mobile App](link-to-dtdc-opedia-mobile-app) 
 
-- [Cusmat Dashboard](analytics.cusmat.com) - Describe your Cusmat Dashboard project here. Technologies used: [List technologies used].
+- [Cusmat Dashboard](analytics.cusmat.com) 
 
 <h2 align="center">🌐 Connect with Me</h2>
 
